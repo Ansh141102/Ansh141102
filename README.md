@@ -28,12 +28,16 @@
 ```typescript
 const anshSrivastava = {
   title: "Data Analyst | Machine Learning Engineer (Freelance)",
-  education: "B.Tech CSE (Data Science) Graduate",
+  education: "B.Tech CSE (Data Science), ABES Engineering College (AKTU) — Oct 2021 to Sep 2025",
+  experience: [
+    "ML Engineer (Freelance) @ Alliance Precision and Solution — Sonar-Based Underwater Object Detection System (85% accuracy, 77% fewer false positives)",
+    "Data Analyst Intern @ SPN JIT Engineering Solutions Pvt Ltd — SQL/Python data analysis, Power BI & Tableau dashboards",
+  ],
   stack: {
     languages: ["Python", "SQL", "HTML", "CSS", "JavaScript"],
     dataAnalysis: ["Pandas", "NumPy", "Excel", "Matplotlib", "Seaborn"],
     biVisualization: ["Power BI", "Tableau"],
-    machineLearning: ["Scikit-learn", "XGBoost"],
+    machineLearning: ["Scikit-learn", "XGBoost (Regression, Classification, Clustering, PCA)"],
     deepLearning: ["TensorFlow", "PyTorch"],
     dataEngineering: ["ETL/ELT", "Apache Spark", "Apache Kafka"],
     cloud: ["AWS"],
@@ -46,8 +50,18 @@ const anshSrivastava = {
     "Telecom Customer Churn Analysis",
     "Heart Failure Prediction System",
     "HR Cold-Email Automation (Gmail API)",
+    "Sonar-Based Underwater Object Detection System",
   ],
-  certifications: [], // none listed yet
+  certifications: [
+    "IBM – Python 101 for Data Science",
+    "Infosys Springboard – Introduction to Data Science",
+    "IBM – Machine Learning (Coursera)",
+    "Data Engineering Professional Certificate (Coursera)",
+    "Tata – Data Visualisation (Forage)",
+    "Goldman Sachs – Engineering Job Simulation (Forage)",
+    "Data Analysis: SQL, Tableau, Power BI & Excel (Udemy)",
+    "AWS Certified Cloud Practitioner – CLF-C02 (Udemy)",
+  ],
   status: "Freelancing as an ML Engineer while working as a Data Analyst",
   openTo: ["Full-time opportunities", "Freelance ML / Data Analytics projects", "Collaborations on data-driven products"],
 };
@@ -185,7 +199,7 @@ Python-based automation system that reads HR contacts from Excel, personalizes o
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ansh141102&theme=nord-dark&hide_border=true&border_color=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
+  <img src="https://streak-stats.demolab.com?user=Ansh141102&theme=nord-dark&hide_border=true&border_color=7dd3fc&ring=7dd3fc&hide=currStreak,longStreak" />
 </p>
 
 <p align="center">
@@ -201,7 +215,7 @@ Python-based automation system that reads HR contacts from Excel, personalizes o
 ### 📫 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ansh-srivastava141102" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ansh-srivastava-7a2436261" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:srivastavaansh171@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Ansh141102" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
